@@ -2,8 +2,8 @@
 -A simple implementation of the tictactoe game versus ai with minimax algorithm, using OpenGL and glfw.
 # Dependencies
   *OpenGL 3.3
-  *GLFW
-  *GLAD
+  -GLFW
+  +GLAD
   *ImGUi Docking branch : git clone -b docking https://github.com/ocornut/imgui.git
     -I am a still new for Dear Imgui, so i use it basically for just changing the colors of the background.
 
